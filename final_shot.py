@@ -266,3 +266,7 @@ class Hdfc(Atm):
 
 objj = Hdfc()
 objj.withdraw()
+
+def sum(a,b):
+    return a+b
+print(sum(10,5))
