@@ -275,3 +275,7 @@ print(sum(10,5))
 def difference(a,b):
     return a-b
 print(sum(10,5))
+
+def multiply(a,b):
+    return a**b
+print(multiply(10,5))
